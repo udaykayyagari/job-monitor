@@ -159,7 +159,7 @@ def main():
     new_matches = 0
     for job in jobs:
         score, matched = score_job(job)
-        if score >= 40:   # threshold for alert
+        if score >= 0:   # threshold for alert
             if save_history(job, score):
                 send_alert(job, score, matched)
                 new_matches += 1
