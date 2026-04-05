@@ -14,13 +14,62 @@ from datetime import datetime
 
 # ========== CONFIGURATION ==========
 TARGET_TITLES = [
+    # Digital Transformation
+    "Director of Digital Business Strategy",
+    "Head of Digital Innovation",
+    "Chief Digital Officer",
+    "VP of Enterprise Transformation",
     "Digital Transformation Lead",
+    "Director of Digital Transformation",
+    "Head of Digital Transformation",
+    "VP Digital Transformation",
+    "Chief Digital Officer CDO",
+
+    # AI Automation
+    "Director of AI Strategy and Transformation",
+    "Head of AI Enablement and Literacy",
+    "VP of AI-Driven Technology Transformation",
+    "Director of AI Business Solutions",
     "AI Automation Lead",
+    "Head of AI Automation",
+    "Director of AI Operations",
+    "Chief AI Officer",
+
+    # Intelligent Automation / Hyperautomation
+    "Director of Intelligent Process Automation",
+    "Head of Hyperautomation",
+    "Director of Cognitive Automation",
+    "VP of Automation and Operational Excellence",
     "Intelligent Automation Lead",
+    "Head of Intelligent Automation",
+    "Director of IPA",
+    "Automation Architect",
+
+    # Automation Lead
+    "Head of Automation Center of Excellence",
+    "Director of Agentic AI Systems",
+    "Global Lead for Creative Automation",
+    "Director of Robotic Fleet Operations",
+    "Automation Lead",
+    "RPA Lead",
+    "Head of Automation CoE",
+
+    # Head of AI
+    "Chief AI Officer",
+    "Director of AI Product Management",
+    "Head of Responsible AI and Governance",
+    "VP of AI Research and Development",
     "Head of AI",
     "AI Practice Lead",
     "GenAI Lead",
-    "Director of Digital Transformation"
+    "Director of Generative AI",
+
+    # Additional common titles
+    "AI Transformation Lead",
+    "Digital Automation Manager",
+    "Process Automation Director",
+    "AI Strategy Lead",
+    "Intelligent Systems Lead"
 ]
 
 KEYWORDS = {
