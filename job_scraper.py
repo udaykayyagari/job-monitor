@@ -41,7 +41,7 @@ EMAIL_PASSWORD = os.environ.get("EMAIL_PASSWORD")
 # Adzuna API (free)
 ADZUNA_APP_ID = os.environ.get("ADZUNA_APP_ID")
 ADZUNA_API_KEY = os.environ.get("ADZUNA_API_KEY")
-ADZUNA_COUNTRY = "us"   # Change to "in", "gb", "ca", etc. if needed
+ADZUNA_COUNTRY = "in"   # Change to "in", "gb", "ca", etc. if needed
 
 # ========== FUNCTIONS ==========
 def search_adzuna():
